@@ -1,0 +1,38 @@
+==================================================
+                  data_analysis                   
+==================================================
+
+ Data_Analysis_part1/
+    |--- Data_Analysis_Overview.ipynb
+    |--- Numpy_Exercise.ipynb
+    |--- Numpy_part1.ipynb
+    |--- Numpy_part2.ipynb
+    |--- answer/
+        |--- Numpy_Exercise_Answer.ipynb
+
+ Data_Analysis_part2/
+    |--- Pandas_Exercise.ipynb
+    |--- Pandas_part1.ipynb
+    |--- Pandas_part2.ipynb
+    |--- answer/
+        |--- Pandas_Exercise_Answer.ipynb
+
+ Data_Analysis_part3/
+    |--- Numpy_exercise_advanced.ipynb
+    |--- Pandas_exercise_advance.ipynb
+    |--- answer/
+        |--- Answer_Numpy.ipynb
+        |--- Answer_Pandas.ipynb
+
+ Data_Analysis_part4/
+    |--- Data_Visualization_Exercise.ipynb
+    |--- Data_Visualization_part1.ipynb
+    |--- Data_Visualization_part2.ipynb
+    |--- answer/
+        |--- Data_Visualization_Exercise_Answer.ipynb
+
+ Data_Analysis_part5/
+    |--- Exploratory_Data_Analysis_and_Tips.ipynb
+
+ Data_Analysis_part6/
+    |--- 06_TitanicPreprocess.ipynb
